@@ -1,4 +1,4 @@
-update=Sunday, 19 February 2017 'amt' 00:11:00
+update=Sunday, 19 February 2017 'pmt' 17:10:55
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,13 @@ LibName29=valves
 LibName30=libraries/chip_shield
 LibName31=libraries/rfm69
 LibName32=libraries/maxim
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
