@@ -522,4 +522,8 @@ Wire Wire Line
 	4600 1500 4350 1500
 Wire Wire Line
 	4350 1600 4600 1600
+Text GLabel 6500 2950 0    60   Input ~ 0
+RFM_INT2
+Text GLabel 4350 4550 2    60   Input ~ 0
+RFM_INT2
 $EndSCHEMATC
